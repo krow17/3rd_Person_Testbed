@@ -1,5 +1,5 @@
 # 3rd Person Virtual Reality Testbed
-My seoncd solo Research Project with TAMU Indie Labs.
+My second solo research project with TAMU INDIE Labs.
 
 # Purpose
 Created with Unity for the Oculus Rift, the question that this project seeks to answer is 1.) do different POVs (3rd person vs. 1st person)
